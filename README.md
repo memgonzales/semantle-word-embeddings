@@ -33,7 +33,7 @@ Library/Module |	Description |	License
 
 *The descriptions are taken from their respective websites.*
 
-## Author
+## Authors
 - <b>Mark Edward M. Gonzales</b> <br/>
   mark_gonzales@dlsu.edu.ph <br/>
   gonzales.markedward@gmail.com <br/>
@@ -50,4 +50,3 @@ Library/Module |	Description |	License
 [badge-pandas]: https://img.shields.io/badge/Pandas-2C2D72?style=flat&logo=pandas&logoColor=white
 [badge-numpy]: https://img.shields.io/badge/Numpy-777BB4?style=flat&logo=numpy&logoColor=white
 [badge-scipy]: https://img.shields.io/badge/SciPy-654FF0?style=flat&logo=SciPy&logoColor=white
-
