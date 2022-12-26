@@ -1,4 +1,4 @@
-# Recreating Semantle (Experimenting with Word Embeddings)
+# Recreating Semantle with Word Embeddings
 ![badge][badge-jupyter]
 ![badge-python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flate&logo=numpy&logoColor=white)
