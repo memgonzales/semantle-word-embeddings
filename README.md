@@ -26,7 +26,7 @@ This project is a Jupyter notebook, with the following Python libraries and modu
 Library/Module |	Description |	License
 -- | -- | --
 [`gensim`](https://radimrehurek.com/gensim/) | Provides functions for training vector embeddings, topic modelling, document indexing, and similarity retrieval with large corpora | GNU Lesser General Public License v2.1
-[`regex`](https://pypi.org/project/regex/)	| Provides additional functionality over the standard [`re`](https://docs.python.org/3/library/re.html) module while maintaining backwards-compatibility	| Apache 2.0 License
+[`regex`](https://pypi.org/project/regex/)	| Provides additional functionality over the standard [`re`](https://docs.python.org/3/library/re.html) module while maintaining backwards-compatibility	| Apache License 2.0
 <a href = "https://numpy.org/"><code>numpy</code></a> | Provides a multidimensional array object, various derived objects, and an assortment of routines for fast operations on arrays | BSD 3-Clause "New" or "Revised" License
 [`io`](https://docs.python.org/3/library/io.html) | Provides Python's main facilities for dealing with various types of I/O | Python Software Foundation License
 <a href = "https://docs.python.org/3/library/random.html"><code>random</code></a> | Provides functions for generating pseudo-random numbers with various common distributions | Python Software Foundation License
